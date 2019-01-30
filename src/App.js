@@ -7,9 +7,9 @@ class App extends Component {
       <div className="warni">
         <h4>Touch Button Salam</h4>
 
-        <HelloWorld namaDepan="Saud" namaBelakang="Maruli S" />
-        <HelloWorld namaDepan="Maya" namaBelakang="A Pertiwi" />
-        <HelloWorld namaDepan="Alita" namaBelakang="Jenong" />
+        <HelloWorld namaDepan="Saud" namatengah="Maruli" namaBelakang="Sihombing" />
+        <HelloWorld namaDepan="Maya" namaTengah="Apriliana" namaBelakang="Pertiwi" />
+        <HelloWorld namaDepan="Alita" namaTengah="Andrianto" namaBelakang="Jenong" />
 
         <p>Thanks for trying this app :)</p>
       </div>

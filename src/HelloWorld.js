@@ -16,7 +16,7 @@ class HelloWorld extends Component {
   render() {
     return (
       <div className="warna">
-        {this.state.Hi} {this.props.namaDepan} {this.props.namaBelakang}
+        {this.state.Hi} {this.props.namaDepan} {this.props.namaTengah} {this.props.namaBelakang}
         <br />
         <button className="tombol" onClick={this.whatsup}>Say Hi!</button>
       </div>
